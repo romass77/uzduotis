@@ -1,0 +1,7 @@
+lt\bit\tasks\controllers\MainController.class
+lt\bit\tasks\dao\TaskDAO.class
+lt\bit\tasks\controllers\TaskController.class
+lt\bit\tasks\dao\UserDAO.class
+lt\bit\tasks\data\Task.class
+lt\bit\tasks\controllers\UserController.class
+lt\bit\tasks\data\User.class
